@@ -4,7 +4,7 @@
     --secondary-color: #4361ee;
     --accent-color: #7209b7;
     --background-color: #6aa2da;
-    --text-color: #212529;
+    --text-color: #141d27;
     --light-gray: #e9ecef;
     --medium-gray: #adb5bd;
     --dark-gray: #495057;
@@ -234,7 +234,7 @@
   }
   
   .gameCard:hover {
-    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 10px 15px rgba(151, 23, 23, 0.1);
     transform: translateY(-2px);
   }
   
